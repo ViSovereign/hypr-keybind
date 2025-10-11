@@ -24,3 +24,15 @@ Look at what your binds are in a hyprland config file.
 <img src="assets/settings.png" alt="Settings" width="500" />
 
 - `Keybinds Config Path` — The path to your hyprland keybinds config file.
+
+## Commments
+
+You can add comments to your keybinds config file to explain what each bind does. These comments will be displayed in the extension. ( See the blue text in the preview image at the top)
+
+```
+bind = SUPER, Q, killactive # Kill active window
+```
+
+## License
+
+MIT
